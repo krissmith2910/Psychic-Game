@@ -1,0 +1,23 @@
+body {
+    color: red;
+    background-color: black
+  }
+  #header {
+      font-size: 25px;
+  }
+
+  #wins {
+      font-size: 20px;
+  }
+
+  #losses {
+      font-size: 20px;
+  }
+
+  #guessesRemaining {
+      font-size: 20px;
+  }
+
+  #guessesSoFar {
+      font-size: 20px;
+  }
